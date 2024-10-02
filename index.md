@@ -20,16 +20,17 @@ tasks.
 
 ## Learning Objectives:
 
-**Audience**: This session is intended to be a slow and encouraging
+**Audience**: 
+<br>
+This session is intended to be a slow and encouraging
 introduction to the Unix Shell, aimed at those that have little to no
 experience with this tool.
 
-By the end of this workshop, you will: - Become familiar with the
-command line interface and file paths - Execute Unix commands to
-navigate through the files and folders in your computer - Create a
-directory hierarchy, and use an editor to create files in that
-hierarchy - Edit, move, and remove files and directories using Unix
-commands
+By the end of this workshop, you will:
+* Become familiar with the command line interface and file paths
+* Execute Unix commands to navigate through the files and folders in your computer
+* Create a directory hierarchy, and use an editor to create files in that
+hierarchy
+* Edit, move, and remove files and directories using Unix commands
 
-[NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue
-}
+[NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue}
