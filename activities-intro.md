@@ -30,7 +30,7 @@ computational landscape.
 [source](https://learn.microsoft.com/en-us/windows/wsl/tutorials/gui-apps)
 [source](https://www.makeuseof.com/how-to-open-mac-apps/)
 
-<br> <br>
+<br> 
 
 As opposed to this graphical interface that can be navigated with a
 mouse, the Unix Shell is a way of interacting with your computer by
@@ -39,6 +39,8 @@ the shell as a box in which you type instructions for your computer to
 execute.
 
 <img src="images/shell-1.png" height="300" />
+
+<br>
 
 It’s worth noting that there are different “brands” of shell that look
 different, but that work the same (more or less. The truth is actually
