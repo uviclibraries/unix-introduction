@@ -53,7 +53,7 @@ recommended to use a search engine to help you!
 `cat`
 
 -   Prints the whole contents of a file (does not work on directories)
--   Syntax: \`cat + {file-name}
+-   Syntax: `cat + {file-name}`
 
 ![](images/cat.png)
 
