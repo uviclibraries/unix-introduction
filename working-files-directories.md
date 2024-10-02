@@ -121,8 +121,6 @@ organized.
 
 -   Syntax: `cp {file-path/file-name} {target-path}`
 
--   Example?\*\*\*\*
-
 <br>
 
 > **Exercise 4**
@@ -152,8 +150,7 @@ organized.
 
 -   Copy the file to **same directory that its in**, changing the file’s
     name
--   Syntax: \`cp {file-path/file-name} {same-file-path/new-file-name}
--   Example:\*\*\*\*
+-   Syntax: `cp {file-path/file-name} {same-file-path/new-file-name}`
 
 <br>
 
