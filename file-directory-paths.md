@@ -37,7 +37,7 @@ each “layer” of the directory hierarchy is separated with a slash.
 >
 > Take a look at the directory structure below:
 >
-> 1.  What’s the path to the Music Directory?
-> 2.  What’s the path to the S-club 7 Directory?
+> *  What’s the path to the Music Directory?
+> *  What’s the path to the S-club 7 Directory?
 
 <img src="images/path-exercise.png" height="450" />
