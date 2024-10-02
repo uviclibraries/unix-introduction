@@ -67,7 +67,7 @@ paths.
 
 **Absolute Paths**: Includes the entire path from the root directory.
 
-<img src="images/absolute-path.png" height="500" width="900" /> 
+<img src="images/absolute-path.png" height="800" width="1200" /> 
 
 <br>
 
@@ -77,7 +77,7 @@ It should be noted that relative paths only work going down the
 hierarchy, and not up. In this example, the relative path assumes
 `/Users/Rochlinn/Music`
 
-<img src="images/relative-path.png" height="500" width="900" /> 
+<img src="images/relative-path.png" height="800" width="1200" /> 
 
 <br>
 
