@@ -1,5 +1,5 @@
 ---
-title: "4 - Working with Files and Directories"
+title: Working with Files and Directories
 layout: default
 nav_order: 6
 parent: Workshop Activities
