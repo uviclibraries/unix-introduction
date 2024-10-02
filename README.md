@@ -1,4 +1,4 @@
-# Tidy Data
+# Introduction to the Unix Shell
 ### UVic Libraries Digital Scholarship Commmons
 
 Link to workshop: https://uviclibraries.github.io/tidy-data/
