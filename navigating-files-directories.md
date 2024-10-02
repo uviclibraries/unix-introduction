@@ -67,7 +67,9 @@ paths.
 
 **Absolute Paths**: Includes the entire path from the root directory.
 
-<img src="images/absolute-path.png" height="400" /> <br>
+<img src="images/absolute-path.png" height="500" width="900" /> 
+
+<br>
 
 **Relative Path**: Includes the path relative to where you are.
 
@@ -75,7 +77,9 @@ It should be noted that relative paths only work going down the
 hierarchy, and not up. In this example, the relative path assumes
 `/Users/Rochlinn/Music`
 
-![](images/relative-path.png)
+<img src="images/relative-path.png" height="500" width="900" /> 
+
+<br>
 
 > ## **Exercise 2**
 >
