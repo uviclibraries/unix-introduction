@@ -45,9 +45,9 @@ execute.
 It’s worth noting that there are different “brands” of shell that look
 different, but that work the same (more or less. The truth is actually
 more nuanced, but for the purposes of this session, you can think of the
-different types of shells working *almost* the same).
+different types of shells as working *almost* the same).
 
-Regardless of the brand/look of shell, each shell begins with where you
+Regardless of the brand/look of shells, each shell begins with information about where you
 are in the computer. As an example, these are 3 different shells, all in
 my personal documents folder:
 
@@ -60,7 +60,7 @@ waiting for input. The prompts differ across each type of shell, but can
 include symbols like ‘>’, ‘%’, ‘$’:
 
 Going back to the concept of the shell as a box in which you type
-instructions to your computer to execute, it needs to be mentioned that
+instructions for your computer to execute, it needs to be mentioned that
 it does not accept human language commands, and that it has its own
 vocabulary and grammar.
 
@@ -72,12 +72,12 @@ With this in mind, you might be thinking to yourself, “why would I ever
 want to use this?? I know how my computer works, and don’t need to learn
 a new language!” While you would be completely reasonable in thinking
 that, the shell can offer a great deal of value in how you work with
-your computer. On a foundational level, if you are using or are
+your computer. On a foundational level, if you are using, or are
 interested in using any coding languages, having a basic understanding
 of how your computer arranges and sorts through files and folders will
 be hugely beneficial, and will reduce a lot of the confusion that can
 arise when learning to code. It can also be much more efficient in
-moving around files and folders, and if you find that there are certain
+moving files and folders, and if you find that there are certain
 movement tasks that you do regularly, it allows you to easily automate
 and repeat those tasks. Moving onto more advanced functions, it can
 serve as a key piece in data workflows and pipelines, working in
