@@ -16,6 +16,8 @@ recommended to use a search engine to help you!
 
 <br>
 
+---
+
 `pwd`
 
 -   Stands for “print working directory”, and will display the full path
@@ -25,6 +27,8 @@ recommended to use a search engine to help you!
 
 <br>
 
+---
+
 `ls`
 
 -   Lists the contents of a directory.  Some systems will have different colours for directories and files, but as a rule of thumb, files will always end in a file extension (ie. `.docx`, `.ppt`, `.txt`, etc).
@@ -32,6 +36,8 @@ recommended to use a search engine to help you!
 <img src="images/ls.png" height="75" />
 
 <br>
+
+---
 
 `cd`
 
@@ -42,6 +48,8 @@ recommended to use a search engine to help you!
 
 <br>
 
+---
+
 `cd ..`
 
 -   Moves you up one directory
@@ -49,6 +57,8 @@ recommended to use a search engine to help you!
 <img src="images/cd2.png" height="65" />
 
 <br>
+
+---
 
 `cat`
 
