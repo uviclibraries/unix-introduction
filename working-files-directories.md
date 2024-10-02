@@ -30,7 +30,8 @@ like.
 
 ------------------------------------------------------------------------
 
-**A quick note on naming** The shell is quite particular in how it
+**A quick note on naming**:
+The shell is quite particular in how it
 parses and sorts information, and a number of special characters have
 function in the shell. Knowing &gt; that, following the file naming
 recommendations below will save you a lot of headaches:
