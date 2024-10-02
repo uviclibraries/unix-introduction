@@ -126,8 +126,8 @@ organized.
 
 > **Exercise 4**
 >
-> 1.  In your personal directory, make a new directory called “music”
-> 2.  Copy the file with your 3 favourite songs to this directory,
+> * In your personal directory, make a new directory called “music”
+> * Copy the file with your 3 favourite songs to this directory,
 >     keeping the same file name
 
 ------------------------------------------------------------------------
@@ -141,8 +141,8 @@ organized.
 
 > **Exercise 5**
 >
-> 1.  In your personal directory, create a new directory called “movies”
-> 2.  Copy the file with your 3 favourite movies to this directory,
+> * In your personal directory, create a new directory called “movies”
+> * Copy the file with your 3 favourite movies to this directory,
 >     giving the file a new name
 
 ------------------------------------------------------------------------
@@ -158,7 +158,7 @@ organized.
 
 > **Exercise 6**
 >
-> Copy the file containing your 3 favourite books to its current
+> * Copy the file containing your 3 favourite books to its current
 > directory, giving the file a new name.
 
 ------------------------------------------------------------------------
@@ -190,7 +190,7 @@ used to change a file’s name, using the following pattern:
 
 > **Exercise 7**
 >
-> In your personal directory, change the name of the file containing
+> * In your personal directory, change the name of the file containing
 > your 3 favourite movies.
 
 ------------------------------------------------------------------------
@@ -261,16 +261,15 @@ Let’s try to clean things up and put together a clean structure.
 
 > **Exercise 8**
 >
-> 1.  Create 3 new .txt files:
+> * Create 3 new .txt files:
 >
 > -   One that contains your favourite breakfast food
 > -   One that contains your favourite lunch food
 > -   One that contains your favourite dinner food Name the files,
 >     respectively, `breakfast.txt`, `lunch.txt`, and `dinner.txt`
 >
-> 1.  Recreate the directory structure below with the files you’ve been
->     working with. The &gt;`my-movies`, `my-music`, `my-books`, and
->     `my-foods` directories contain the .txt files with your
->     &gt;favourites:
+> * Recreate the directory structure below with the files you’ve been
+>     working with. The `my-movies`, `my-music`, `my-books`, and
+>     `my-foods` directories contain the .txt files with your favourites:
 >
 > <img src="images/final-structure.png" height="500" />
