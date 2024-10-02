@@ -82,8 +82,8 @@ hierarchy, and not up. In this example, the relative path assumes
 > Using the data files that you downloaded at the beginning of the
 > session, explore the files and directories with the following prompts:
 >
-> 1.  What is the full path to the file `methane.pdb`?
-> 2.  Who is the author of `methane.pdb`?
-> 3.  What command would you use to move from the `proteins` directory
+> *  What is the full path to the file `methane.pdb`?
+> *  Who is the author of `methane.pdb`?
+> *  What command would you use to move from the `proteins` directory
 >     to the `shell-lesson-data` directory?
-> 4.  What is the last line of the file `NENE01729A.txt`?
+> *  What is the last line of the file `NENE01729A.txt`?
