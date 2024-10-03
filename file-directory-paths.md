@@ -37,7 +37,9 @@ each “layer” of the directory hierarchy is separated with a slash.
 >
 > Take a look at the directory structure below:
 >
-> *  What’s the path to the Music Directory?
-> *  What’s the path to the S-club 7 Directory?
+> *  What’s the path to the Music directory?
+> *  What’s the path to the S-Club 7 directory?
+>
+> (Answer questions in Padlet)[https://padlet.com/nickrochlin/unix-exercise-1-20n5h6wvprgldkna]
 
 <img src="images/path-exercise.png" height="450" />
