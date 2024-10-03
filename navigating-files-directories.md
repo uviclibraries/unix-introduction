@@ -75,13 +75,19 @@ As you start playing around in the Unix Shell, it’s good to know that
 there are two types of paths that you can use: absolute and relative
 paths.
 
-**Absolute Paths**: Includes the entire path from the root directory.
+**Absolute Paths**: 
+
+* Includes the entire path from the root directory
+* The absolute path for the movement below would be: `cd /Users/Rochlinn/Music/Party/DMX`
 
 <img src="images/absolute-path.png" height="500" width="800" /> 
 
 <br>
 
-**Relative Path**: Includes the path relative to where you are.
+**Relative Path**: 
+
+* Includes the path relative to where you are
+* The relative path for the movement below would be: `cd /Party/DMX`
 
 It should be noted that relative paths only work going down the
 hierarchy, and not up. In this example, the relative path assumes
