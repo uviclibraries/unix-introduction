@@ -80,7 +80,7 @@ paths.
 * Includes the entire path from the root directory
 * The absolute path for the movement below would be: `cd /Users/Rochlinn/Music/Party/DMX`
 
-<img src="images/absolute-path.png" height="500" width="800" /> 
+<img src="images/absolute-path.png" height="300" width="500" /> 
 
 <br>
 
@@ -93,7 +93,7 @@ It should be noted that relative paths only work going down the
 hierarchy, and not up. In this example, the relative path assumes
 `/Users/Rochlinn/Music`
 
-<img src="images/relative-path.png" height="500" width="800" /> 
+<img src="images/relative-path.png" height="300" width="500" /> 
 
 <br>
 
