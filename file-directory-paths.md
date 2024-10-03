@@ -40,6 +40,7 @@ each “layer” of the directory hierarchy is separated with a slash.
 > *  What’s the path to the Music directory?
 > *  What’s the path to the S-Club 7 directory?
 >
-> [Answer questions in Padlet](https://padlet.com/nickrochlin/unix-exercise-1-20n5h6wvprgldkna)
+><a href="https://padlet.com/nickrochlin/unix-exercise-1-20n5h6wvprgldkna" target="_blank">Answer questions in Padlet</a>
+
 
 <img src="images/path-exercise.png" height="450" />
