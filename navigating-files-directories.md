@@ -101,3 +101,7 @@ hierarchy, and not up. In this example, the relative path assumes
 > *  What command would you use to move from the `proteins` directory
 >     to the `shell-lesson-data` directory?
 > *  What is the last line of the file `NENE01729A.txt`?
+>
+> <a href="https://padlet.com/nickrochlin/unix-exercise-2-dl2teclv5hpcj12c" target="_blank">Answer questions in Padlet</a>
+
+<br>
