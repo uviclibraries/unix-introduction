@@ -5,7 +5,7 @@ nav_order: 10
 ---
 # Additional Resources & Acknowledgements
 
-## Tableau Resources
+## Unix Resources
 
 - [Unix Flags](http://www.catb.org/~esr/writings/taoup/html/ch10s05.html){:target="_blank"}
 - [Software Carpentry - The Unix Shell](https://swcarpentry.github.io/shell-novice/){:target="_blank"}
