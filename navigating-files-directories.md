@@ -21,7 +21,7 @@ recommended to use a search engine to help you!
 `pwd`
 
 -   Stands for “print working directory”, and will display the full path
-    of where you currently are on your machine.
+    of where you currently are on your machine. Right now, I'm at the root directory of my computer, which means I'm at the highest (functional) point of the directory hirearchy, which is `/Users/nickrochlin`
 
 <img src="images/pwd.png" height="60" />
 
@@ -31,7 +31,7 @@ recommended to use a search engine to help you!
 
 `ls`
 
--   Lists the contents of a directory.  Some systems will have different colours for directories and files, but as a rule of thumb, files will always end in a file extension (ie. `.docx`, `.ppt`, `.txt`, etc).
+-   Lists the contents of a directory. Some systems will have different colours for directories and files, but as a rule of thumb, files will always end in a file extension (ie. `.docx`, `.ppt`, `.txt`, etc).  As you can see, my root directory only has sub-directories, and no files.
 
 <img src="images/ls.png" height="75" />
 
@@ -41,8 +41,10 @@ recommended to use a search engine to help you!
 
 `cd`
 
--   Changes the directory you are in.
+-   Changes the directory you are in.  
 -   Syntax: \`cd + {path/to/directory}`
+
+Let's use this command to move to our `Desktop` directory:
 
 <img src="images/cd.png" height="65" />
 
@@ -54,11 +56,19 @@ recommended to use a search engine to help you!
 
 -   Moves you up one directory
 
+If I use this command, I'll be moved back to my root directory.  If you're ever unsure of what directory you're in, you can always use the `pwd` command to double check, although the information in the command prompt can also be helpful in figuring this out.
+
 <img src="images/cd2.png" height="65" />
 
 <br>
 
 ---
+
+Now let's move back to our `Desktop` directory by re-entering the command `cd Desktop`.  The files on your Desktop will be different than mine, but if I use the `ls` command here, you will see that I have the `shell-lesson-data` directory that I downloaded in the Pre-Workshop Activities section, as well as a file called `hello.txt`.
+
+<img src="images/ls2.png" height="65" />
+
+Because this is a `.txt` file, I know that there is some sort of text in it.  I can use the `cat` command to check out the content of the file:
 
 `cat`
 
@@ -99,8 +109,7 @@ hierarchy, and not up. In this example, the relative path assumes
 
 > ## **Exercise 2**
 >
-> Using the data files that you downloaded at the beginning of the
-> session, explore the files and directories with the following prompts:
+> Move to the `shell-lesson-data` directory that you downloaded at the beginning of the session (which should be in your `Desktop` directory), and, explore the files and > directories with the following prompts:
 >
 > *  What is the full path to the file `methane.pdb`?
 > *  Who is the author of `methane.pdb`?
