@@ -196,7 +196,7 @@ used to change a file’s name, using the following pattern:
 The `mv` command can also be used to change a file’s name when moving it
 to a new directory
 
--   Chane a file’s name, moving it to a new directory
+-   Change a file’s name, moving it to a new directory
 -   Syntax: `mv {file-path/file-name} {target-path/-new-file-name}`
 
 ------------------------------------------------------------------------
