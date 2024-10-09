@@ -42,7 +42,7 @@ recommended to use a search engine to help you!
 `cd`
 
 -   Changes the directory you are in.
--   Syntax: \`cd + {path/to/directory}
+-   Syntax: \`cd + {path/to/directory}`
 
 <img src="images/cd.png" height="65" />
 
