@@ -68,8 +68,7 @@ Now let's move back to our `Desktop` directory by re-entering the command `cd De
 
 <img src="images/ls2.png" height="65" />
 
-Because this is a `.txt` file, I know that there is some sort of text in it.  I can use the `cat` command to check out the content of the file:
-
+If I'm interested in seeing what is in the `hello.txt` file, I can use the `cat` command to display the content.  While this example is being shown on a `.txt` file, the `cat` command works other types of files as well.  (If you're interested, feel free to look into the other files that `cat` works on in a search engine).
 `cat`
 
 -   Prints the whole contents of a file (does not work on directories)
