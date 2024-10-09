@@ -112,7 +112,7 @@ hierarchy, and not up. In this example, the relative path assumes
 >
 > *  What is the full path to the file `methane.pdb`?
 > *  Who is the author of `methane.pdb`?
-> *  What command would you use to move from the `proteins` directory
+> *  What command would you use to move from the `alkanes` directory
 >     to the `shell-lesson-data` directory?
 > *  What is the last line of the file `NENE01729A.txt`?
 >
