@@ -88,6 +88,9 @@ If I'm interested in seeing what is in the `hello.txt` file, I can use the `cat`
 
 It should also be noted that the `cat` command can only be used on **plain text files**, and not file formats like Word documents (.docx) or Excel documents (.xlsx).  This is the output of using the `cat` command on a .docx file:
 
+<img src="images/cat-word-doc.png" height="350" width="550" /> 
+
+Going into the details of file formats is beyond the scope of this lesson, but to learn more about files formats, you can read more about them [here](https://howtofair.dk/how-to-fair/file-formats/)
 
 
 ## Absolute vs. Relative Paths
