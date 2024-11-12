@@ -70,3 +70,4 @@ vocabulary and grammar.
 
 <br>
 
+[NEXT STEP: File and Directory Paths](file-directory-paths.html){: .btn .btn-blue}
