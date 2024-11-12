@@ -44,3 +44,9 @@ each “layer” of the directory hierarchy is separated with a slash.
 
 
 <img src="images/path-exercise.png" height="450" />
+
+<br>
+
+[NEXT STEP: Navigating Files and Directories](navigating-files-directories.html){: .btn .btn-blue}
+
+
