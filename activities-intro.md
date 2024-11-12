@@ -66,28 +66,7 @@ vocabulary and grammar.
 
 <img src="images/instructions.png" height="100" />
 
-### Why use the shell?
 
-With this in mind, you might be thinking to yourself, “why would I ever
-want to use this?? I know how my computer works, and don’t need to learn
-a new language!” While you would be completely reasonable in thinking
-that, the shell can offer a great deal of value in how you work with
-your computer. On a foundational level, if you are using, or are
-interested in using any coding languages, having a basic understanding
-of how your computer arranges and sorts through files and folders will
-be hugely beneficial, and will reduce a lot of the confusion that can
-arise when learning to code. It can also be much more efficient in
-moving files and folders, and if you find that there are certain
-movement tasks that you do regularly, it allows you to easily automate
-and repeat those tasks. Moving onto more advanced functions, it can
-serve as a key piece in data workflows and pipelines, working in
-conjunction with other coding languages and digital tools you are using.
-And for the super-users out there, it is also the easiest way to work
-with remote machines and high-performance computing clusters.
-
-This is all to say that there’s a lot of value in the Unix Shell, but it
-does require a bit of work to get there. With that said, let’s jump into
-it!
 
 <br>
 
