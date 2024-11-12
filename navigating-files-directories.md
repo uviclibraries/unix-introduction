@@ -50,7 +50,7 @@ recommended to use a search engine to help you!
 `cd`
 
 -   Changes the directory you are in.  
--   Syntax: \`cd + {path/to/directory}`
+-   Syntax: `cd path/to/directory`
 
 Let's use this command to move to our `Desktop` directory:
 
@@ -80,11 +80,15 @@ If I'm interested in seeing what is in the `hello.txt` file, I can use the `cat`
 `cat`
 
 -   Prints the whole contents of a file (does not work on directories)
--   Syntax: `cat + {file-name}`
+-   Syntax: `cat file-name`
 
 <img src="images/cat.png" height="65" />
 
 <br>
+
+It should also be noted that the `cat` command can only be used on **plain text files**, and not file formats like Word documents (.docx) or Excel documents (.xlsx).  This is the output of using the `cat` command on a .docx file:
+
+
 
 ## Absolute vs. Relative Paths
 
