@@ -21,7 +21,7 @@ do is create a new directory within the `shell-lesson-data` directory.
 **`mkdir`**
 
 -   Make a new directory
--   Syntax: `mkdir + {new-directory-name}`
+-   Syntax: `mkdir  new-directory-name`
 
 Using this command, create a new directory, \*choosing whatever name you
 like.
@@ -65,7 +65,7 @@ there are other plain text file types that can be explored.
 -   `nano + new-file-name` - opens text editor and creates a new file
     with a specified name. You will need to enter `.txt` after the file
     name so that Nano knows what kind of file to create
--   `nano + existing-file-name` - opens text editor to an existing file
+-   `nano existing-file-name` - opens text editor to an existing file
 
 **Closing nano**
 
@@ -119,7 +119,7 @@ organized.
 
 -   Copy a file to another directory, **keeping the file’s name**
 
--   Syntax: `cp {file-path/file-name} {target-path}`
+-   Syntax: `cp file-path/file-name target-path`
 
 <br>
 
@@ -134,7 +134,7 @@ organized.
 `cp`
 
 -   Copy a file to another directory, **changing the file’s name**
--   Syntax: `cp {file-path/file-name} {target-path/new-file-name}`
+-   Syntax: `cp file-path/file-name target-path/new-file-name`
 
 <br>
 
@@ -150,7 +150,7 @@ organized.
 
 -   Copy the file to **same directory that its in**, changing the file’s
     name
--   Syntax: `cp {file-path/file-name} {same-file-path/new-file-name}`
+-   Syntax: `cp file-path/file-name same-file-path/new-file-name`
 
 <br>
 
@@ -182,7 +182,7 @@ of copied. The one unique function that `mv` offers is that it can be
 used to change a file’s name, using the following pattern:
 
 -   Change a file’s name, keeping it in the same directory:
--   Syntax: `mv {file-path/file-name} {same-file-path/new-file-name}`
+-   Syntax: `mv file-path/file-name same-file-path/new-file-name`
 
 <br>
 
@@ -197,7 +197,7 @@ The `mv` command can also be used to change a file’s name when moving it
 to a new directory
 
 -   Change a file’s name, moving it to a new directory
--   Syntax: `mv {file-path/file-name} {target-path/-new-file-name}`
+-   Syntax: `mv file-path/file-name target-path/-new-file-name`
 
 ------------------------------------------------------------------------
 
@@ -214,7 +214,7 @@ this way.
 `rm`
 
 -   Removes a file
--   Syntax: `rm {file-path/file-name}`
+-   Syntax: `rm file-path/file-name`
 
 ------------------------------------------------------------------------
 
@@ -235,13 +235,13 @@ commands we learned can only operate on single files.
 To use the `r` flag, or any other Unix flag, place it after a command,
 and before an argument
 
-Syntax: \`{command} {-flag} {path/directory-or-files}
+Syntax: `command -flag path/directory-or-files
 
 ------------------------------------------------------------------------
 
-Erase a directory \* Syntax: `rm -r {path/directory-name}`
+Erase a directory \* Syntax: `rm -r path/directory-name`
 
-Copy a directory \* Syntax: `cp -r {path/directory-name}`
+Copy a directory \* Syntax: `cp -r path/directory-name`
 
 ------------------------------------------------------------------------
 
