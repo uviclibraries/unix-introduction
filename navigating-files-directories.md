@@ -21,8 +21,8 @@ recommended to use a search engine to help you!
 **PC Users**: After having downloaded Git for Windows, search for "Git for Windows" in the search bar next to the Windows icon at the bottom of your computer screen.  Click on the Git program, and your terminal will open.
 
 **Mac Users**: There are two option to pull up the Mac terminal
-1) Press `command` `spacebar` to open a search tab, and then type "terminal". Click on the terminal application for it to open.
-2) Open your "Applications" folder, and search for "Terminal".  Click to open. 
+* 1) Press `command` `spacebar` to open a search tab, and then type "terminal". Click on the terminal application for it to open.
+* 2) Open your "Applications" folder, and search for "Terminal".  Click to open. 
 
 ---
 
