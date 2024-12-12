@@ -20,7 +20,7 @@ tasks.
 
 ### Why use the shell?
 
-- Very valuabl as background knowledge for learning coding languages for the first time
+- Very valuable as background knowledge for learning coding languages for the first time
 - Easily automate file/folder movements that are often repeated
 - Easily integrates with other tools and platforms in data workflows and pipelines
 - Connect to remote machines and high-performance computing clusters
