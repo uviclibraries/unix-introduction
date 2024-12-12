@@ -18,7 +18,7 @@ Before beginning this lesson, you’ll need to do a few things:
     `shell-lesson-data` on your Desktop.
 3.  If you are working on a Windows machine, you will need to download
     Git for Windows.  [Click here for instructions to
-    download](https://carpentries.github.io/workshop-template/install_instructions/#shell).
+    download](https://carpentries.github.io/workshop-template/install_instructions/#shell){:target="_blank"}.
     If you are using a Mac or Linux system, you do not need to download
     any additional software (lucky you!).
 
