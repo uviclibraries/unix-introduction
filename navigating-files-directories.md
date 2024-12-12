@@ -90,7 +90,7 @@ It should also be noted that the `cat` command can only be used on **plain text 
 
 <img src="images/cat-word-doc.png" height="700" width="850" /> 
 
-Going into the details of file formats is beyond the scope of this lesson, but to learn more about files formats, you can read more about them [here](https://howtofair.dk/how-to-fair/file-formats/)
+Going into the details of file formats is beyond the scope of this lesson, but to learn more about files formats, you can read more about them [here](https://howtofair.dk/how-to-fair/file-formats/){:target="_blank"}.
 
 
 ## Absolute vs. Relative Paths
