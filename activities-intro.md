@@ -1,5 +1,5 @@
 ---
-title: "Activities Intro"
+title: 1 - Activities Intro
 layout: default
 nav_order: 3
 parent: Workshop Activities
