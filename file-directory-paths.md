@@ -1,5 +1,5 @@
 ---
-title: 1 - File and Directory Paths
+title: 2 - File and Directory Paths
 layout: default
 nav_order: 4
 parent: Workshop Activities
