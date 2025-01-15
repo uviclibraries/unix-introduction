@@ -15,7 +15,7 @@ DSC badges are awarded at the request of workshop participants after a DSC staff
 
 ### Earn an Informal Credential or Badge for Unix
 
-If you'd like to earn a DSC badge for this workshop, please complete activities 1, 2, and 3 and then email pictures of the completed dashboard at the end of activity 3 to: [dscommons@uvic.ca](mailto:dscommons@uvic.ca){:target="_blank"}
+If you'd like to earn a DSC badge for this workshop, please complete Exercises 1-8, and then email your answers to Exercises 1 and 2, as well as providing a picture of the directory structure in the shell that you created in Exercise 8, to : [dscommons@uvic.ca](mailto:dscommons@uvic.ca){:target="_blank"}
 
 ### Learn how you can share your DSC Badge
 To learn more about DSC badges and how you can share your them on LinkedIn profile, personal website, or resume, check our [DSC Badges webpage](https://onlineacademiccommunity.uvic.ca/dsc/badges/){:target="_blank"}.
