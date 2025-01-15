@@ -1,5 +1,5 @@
 ---
-title: 2 - Navigating Files and Directories
+title: 3 - Navigating Files and Directories
 layout: default
 nav_order: 5
 parent: Workshop Activities
