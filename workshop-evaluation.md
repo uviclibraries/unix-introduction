@@ -7,6 +7,6 @@ nav_order: 8
 
 If you feel so inclined, please complete the following survey to help us ensure the quality of our workshops:
 
-[How did we do?](lib.uvic.ca/eval){:target="_blank"}
+[How did we do?](https://lib.uvic.ca/eval){:target="_blank"}
 
 [NEXT STEP: Land Acknowledgement](land-acknowledgement.html){: .btn .btn-blue }
